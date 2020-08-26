@@ -1,0 +1,5 @@
+data:
+  env: cloud-payment-dev
+  user:
+    username: payment-dev-user
+    password: 123456
