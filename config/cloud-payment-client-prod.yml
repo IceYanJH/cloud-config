@@ -2,4 +2,4 @@ data:
   env: cloud-payment-prod
   user:
     username: payment-prod-user
-    password: cloud-prod-update
+    password: cloud-prod-new
